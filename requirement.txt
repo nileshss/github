@@ -2,3 +2,6 @@ this is requirement for employee payroll system
 1.admin table
 2.employee table
 3.salary table
+4.leave table
+5.allowance
+6.dedcution
